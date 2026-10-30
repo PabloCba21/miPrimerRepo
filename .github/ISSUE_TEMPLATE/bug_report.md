@@ -32,4 +32,4 @@ Si es porsibel, añade capturas de pantalla para ayudar a explicar el problema
 * Navegador [e.g. Chrome, Dafari]
 * Version del sofware [e.g. 22]
 
-** Informacion adicional **
+**Informacion adicional**
