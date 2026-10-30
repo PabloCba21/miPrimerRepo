@@ -33,3 +33,4 @@ Si es porsibel, añade capturas de pantalla para ayudar a explicar el problema
 * Version del sofware [e.g. 22]
 
 **Informacion adicional**
+Aporta cualquier otra información que pueda aayudarnos
